@@ -6,7 +6,7 @@ struct node {
     int data;
     struct node *next;
 };
-
+//change made by aakash
 struct node *front = NULL;
 struct node *rear = NULL;
 
